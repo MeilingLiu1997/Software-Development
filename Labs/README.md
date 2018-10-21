@@ -13,4 +13,4 @@
 * Prime Finder
 * Link Parser
 
-* if you are interested, please contact author.
+if you are interested, please contact author.
